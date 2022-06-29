@@ -1,2 +1,2 @@
 # java-desktop-crude
-Java CRUDE using mySQL
+Java CRUDE desktop interface using mySQL.
