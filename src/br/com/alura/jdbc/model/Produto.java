@@ -45,6 +45,6 @@ public class Produto {
 
 	@Override
 	public String toString() {
-		return String.format("O produto �: %d, %s, %s", this.id, this.nome, this.descricao);
+		return String.format("O produto: %d, %s, %s", this.id, this.nome, this.descricao);
 	}
 }
